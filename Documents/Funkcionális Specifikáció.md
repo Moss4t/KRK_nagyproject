@@ -79,3 +79,10 @@ Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező f
 	- Feliratkozás felület: A felhasználót értesíti az oldal ha a bejegyzésnél új hozzászólás történt, vagy szavaztak az ő által elkészitett szavazáson.
 
 	- Reszponzív felület: Az oldal méretei automatikusan igazodnak az aktuális eszközön.
+
+## Forgatókönyv
+-Megnyitja a weboldalt.
+-Bejelentkezik vagy regisztrál, itt megadja a megfelelő adatait.
+-Bejelentkezés/regisztráció után böngészhet a témák/kategóriák, bejegyzések között ahol hozzászólásokat írhat, szavazásokat hozhat létre bejegyzésekhez, szerkesztheti a profilját, kereshet témák, bejegyzéseket. Feliratkozhat bejegyzésekre,témákra.
+-Ha valaki böngészés közben hozzászól egy feliratkozott bejegyzéshez, témához akkor a felhasználónak jelzi a feliratkozásai között.
+-Jobb felül található egy beállítások gomb, amivel a saját profilunkra ugorhatunk, és módosíthatjuk saját adataink, profil képünket.
