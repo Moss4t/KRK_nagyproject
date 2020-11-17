@@ -24,3 +24,20 @@ Azért hogy egyszerűbbé tegyük közösség formálodását létrehoztuk egy w
 **Moderátor**: A Moderátor hasonló az adminhoz viszont kevesebb joggal rendelkezik, segiti az admin munkáját abban hogy a moderálja a fórumon történő hozzászólásokat, bejegyzéseket. Segit az oldalon megtalálható hibák feltárásában, javitásában.	
 **Felhasználó**: A Felhasználó bejelentkezés után eléri saját profilját, és azok profiljának publikus részét akik regisztráltak. Továbbá képes a témákba belépni és ott bejegyzéseket létrehozni, szavazásokat inditani, hozzászólni bejegyzésekhez. A User(ek)nek hozzá kell férniük saját profiljukhoz, amin módosítani kell tudniuk saját személyes adataikat (Felhasználó, jelszó, e-mail), és meg kell tudni jelölniük azokat privátnak vagy publikusnak. Meg kell tudniuk változtatni jelszavukat biztonsági okokból. Keresést tudnak inditani "szürők" alapján.
 **Vendég**: A Vendég olvashatja a témákban lévő bejegyzéseket,hozzászólásokat több joga/elérhetősége nincs.
+
+## Követelménylista
+
+|   Modul   | ID |  Név   |  Verzió  |
+|-----------|----|--------|----------|
+|Jogosultság| K1 | Bejelentkezés|1.0|
+|Jogosultság|K2|Regisztráció|1.0|
+|Jogosultság|K3|Jogosultsági szintek|1.0|
+|Modifikáció|K4|Felhasználó módosítása|1.0|
+|Modifikáció|K5|Jelszó módosítása|1.0|
+|Modifikáció|K6|Elfelejtett felhasználónév/jelszó|1.0|
+|Statisztika|K7|Összes megtekintések|1.0|
+|Felület|K8|Profil|1.0|
+|Felület|K9|Témák, Bejegyzések, Hozzászólások, Szavazás|1.0|
+|Jogosultság|K10|Admin felület|1.0|
+|Jogosultság|K11|Moderátor felület|1.0|
+|Adatbázis|K12|Adatbázis rendszer|1.0|
