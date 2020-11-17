@@ -80,6 +80,13 @@ Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező f
 
 	- Reszponzív felület: Az oldal méretei automatikusan igazodnak az aktuális eszközön.
 
+## Képernyőtervek
+
+- Főoldal felülete
+![](Képernyőtervek/Főoldal.png)
+- Bejegyzés kinézete
+![](Képernyőtervek/Bejegyzés.png)
+
 ## Forgatókönyv
 -Megnyitja a weboldalt.
 -Bejelentkezik vagy regisztrál, itt megadja a megfelelő adatait.
