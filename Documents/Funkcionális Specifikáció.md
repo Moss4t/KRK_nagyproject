@@ -14,3 +14,7 @@ A jelenlegi helyzetet adódóan 	megnőtt az internetezők száma és megnőtt a
 
 A mai világban ahol már mindent összeköt az internet és sokkal könnyebben tarthatjuk a kapcsolatot meglévő ismerősökkel , barátokkal. A közösség formálás egy fontos dolog ezért probálunk ebben segiteni.
 Szeretnénk azt elérni hogy egy jó közösség alakuljon ki ezzel segitve egymást. Illetve segiteni akarjuk azokat a felhasználókat akik sokat keresnek dolgok után az interneten azzal hogy a közösségben többféle embertől tud véleményt kikérni. Reméljük hogy az országban egy kis online közösséget tudunk alkotni és bőviteni ezt. 
+
+## Igényelt üzleti folyamatok modellje
+
+Azért hogy egyszerűbbé tegyük közösség formálodását létrehoztuk egy weblapot ami a mai kornak megfelelően helyt tud állni az elektronikai világban. Felhasználóinknak így egyszerűbb lesz bármiről információt megosztani, valamint segiteni másokon vagy segitséget kérni. Ismerkedésre nyitott személyek számára megfelelő hely ebben biztosak vagyunk. Eddigi ismeretlen dolgokról való információ szerzés egy fontos pontja a fórumnak. A legfontosabb pedig az információ csere.
