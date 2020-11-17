@@ -68,3 +68,14 @@ Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező f
 - K11  Felület az moderátor fiókkal rendelkező felhasználó számára. Tartalmazza egyes felhasználói csoport jogok szerkesztését, bejegyzések,hozzászólások moderátori részét, új témák létrehozását.
 
 - K12 Adatbázis kapcsolat megtervezése és létrehozása.
+
+## Fogalomszótár
+	- Feliratkozás: A felhasználók feliratkozhatnak bejegyzésekre ami jelzi ha új hozzászólás történt.
+
+	- Szűrők: A felhasználó szűkebb körben kereshet bejegyzéseket, hozzászólásokat. Csak azokat a felhasználókat adja ki a kereső mező, ami megfelel a beállított feltételeknek.
+
+	- Profil: A felhasználó itt testre szabhatja saját profilképét. Készíthet rövid leírást magáról hogy jobban megismerjék.
+
+	- Feliratkozás felület: A felhasználót értesíti az oldal ha a bejegyzésnél új hozzászólás történt, vagy szavaztak az ő által elkészitett szavazáson.
+
+	- Reszponzív felület: Az oldal méretei automatikusan igazodnak az aktuális eszközön.
