@@ -86,3 +86,9 @@ Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező f
 -Bejelentkezés/regisztráció után böngészhet a témák/kategóriák, bejegyzések között ahol hozzászólásokat írhat, szavazásokat hozhat létre bejegyzésekhez, szerkesztheti a profilját, kereshet témák, bejegyzéseket. Feliratkozhat bejegyzésekre,témákra.
 -Ha valaki böngészés közben hozzászól egy feliratkozott bejegyzéshez, témához akkor a felhasználónak jelzi a feliratkozásai között.
 -Jobb felül található egy beállítások gomb, amivel a saját profilunkra ugorhatunk, és módosíthatjuk saját adataink, profil képünket.
+
+## Funkció-Követelmény megfeleltetés
+- **Jogosultság:** *-regisztráció:* a szolgáltatás használatához felhasználói fiók szükséges, ennek létrehozáshoz szükség van egy regisztrációs felülethez. *-bejelentkezés:* Ahhoz, hogy a felhasználó elérhesse fiókját és a szolgáltatás által nyújtott lehetőségeket, továbbá hogy a szerver az ő, és nem más fiókjához kötött adatokat küldje át bejelenkezés szükséges. *-jogszintek:* Míg az egyszerű felhasználó csak a saját profiljához fér hozzá, addig a adminok másokét is képes módosítani, közösségi menedzsmenti okokból.
+- **Modifikáció:** *-név:* A felhasználó saját profiljába belépve képes lesz módosítani nevét. *-jelszó:* A felhasználó profilján keresztül képes lesz elérni a jelszómódosítás képernyőt, amin az eddigi jelszava megadásával képes lesz újat beállítani magának. *-elfelejtett jelszó:* A belépési képernyő része, amin képes lesz a felhasználó külső jelszóváltoztatást kérni regisztrált e-mail címére az automata rendszertől.
+- **Statisztika:** *-toplista:* Külön felület, amin a felhasználók láthatják az aktuális, algoritmus és tevékenység által létrehozott statisztikákat.
+- **Felület:** *-üzenet:* Témák,bejegyzések,hozzászólások amiken keresztül a felhasználók képesek felvenni a kapcsolatot az ott résztvevőkkel. *-profil:* A felhasználó saját felülete, ahol képes saját adatait (pl.: név, profil kép) módosítani.
