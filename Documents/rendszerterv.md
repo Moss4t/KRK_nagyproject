@@ -9,3 +9,5 @@
 ## **Követelmények**
 
 ### **Funkcionális követelmények:**
+
+## **Karbantartási terv**
