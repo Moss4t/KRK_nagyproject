@@ -67,3 +67,5 @@ Beta teszt:
 		Ha hiba lép fel, a fejlesztők kijavítják a lehető leghamarabb. Sok hiba esetén a tesztelés ideje elhúzód
 
 ## **Projekt terv**
+
+Project dolgozók: Kurán Tiger Bertalan, Balogh Dániel, Zsadányi Rózsa, Vajda Krisztián, Németi Nikoletta.
