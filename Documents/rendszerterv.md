@@ -10,7 +10,7 @@ A weblapunknak nem célja hogy fizetős legyen.
 Akik használják a fórumot.
 
 ## **Üzleti folyamat**
-
+1.Emberek regisztráljanak a fórumra.
 ## **Követelmények**
 
 ### **Funkcionális követelmények:**
