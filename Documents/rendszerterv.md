@@ -26,6 +26,10 @@ Akik használják a fórumot.
 ## **Karbantartási terv**
 A fórum a jövőben nem igényel nagy karbantartásokat, a szükséges karbantartások az 
 alábbi egységekből állnak:
+
+1. Frissebb verziójú app store történő tesztelés, hiba esetén azoknak javítása.
+2. A kiszolgáló szerver státuszának ellenőrzése, offline szerver esetén újraindítás.
+3. Igény esetén új funkciók implementálása.  
 ## **Fizikai környezet**
 
 ## **Telepítési terv**
