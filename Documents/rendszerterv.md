@@ -7,6 +7,8 @@ A weblapunknak nem célja hogy fizetős legyen.
 
 ### Üzleti Szereplők
 
+Akik használják a fórumot.
+
 ## **Üzleti folyamat**
 
 ## **Követelmények**
