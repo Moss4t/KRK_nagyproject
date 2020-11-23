@@ -48,5 +48,12 @@ Tesztelési eljárások:
 Unit teszt:
 
 		Ahol csak lehetséges, szükséges már a fejlesztési idő alatt is tesztelni, hogy a metódusok megfelelően működnek-e
+		
+Alfa teszt:
+
+		A teszt elsődleges célja az eddig meglévő funkcióknak a különböző eszközökkel való kompatibilitásának tesztelése. 
+		A tesztet a fejlesztők végzik.
+		Az eljárás sikeres, ha különböző eszközökben is megfelelően működnek a különböző funkciók. 
+		A teszt időtartama egy hét.
 
 ## **Projekt terv**
