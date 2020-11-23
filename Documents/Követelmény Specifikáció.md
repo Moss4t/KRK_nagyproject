@@ -39,3 +39,10 @@ Az Oldal és valamennyi kapcsolódó védjegy, szerzői jogi alkotás és egyéb
 Az Alkalmazás Felhasználói 14 éven felüli természetes személyek lehetnek. Az Oldal díjmentesen vehető igénybe, kizárólag az oktatási rendszerben résztvevő 14-év feletti hallgatók, és azok tanárai használhatják a jelen Felhasználási Feltételek szerint.
 
 A Felhasználási Feltételek és az Oldal működésének a módosítására, az Oldal működésének a megszüntetésére az Intézményvezető bármikor jogosult, a Felhasználó előzetes értesítése nélkül. Az Oldalon való hozzáférést az Intézményvezető bármikor visszavonhatja akár az adott Felhasználóra nézve, akár szélesebb körben vagy teljes körűen előzetes értesítés, figyelmeztetés nélkül.
+## Felelősségi szabályok
+
+Az Intézményvezető fenntartja magának a jogot arra, hogy amennyiben valamely Felhasználó részéről bármilyen manipulációt, tömegesen generált letöltést, illetve az Oldal szellemével bármilyen módon összeférhetetlen vagy azt sértő magatartást tapasztal, vagy ennek megalapozott gyanúja felmerül, úgy a Felhasználót azonnali hatállyal kizárja az Oldal felhasználói köréből.
+
+Az Oldalhoz kapcsolódó adatbázis módosítása kizárólag az Üzemeltető által, illetve az Oldalt üzemeltető webkiszolgálón keresztül lehetséges. Bármilyen külső, nem az Oldal részeként elérhető eszközzel történő beavatkozás a Felhasználó azonnali kizárását eredményezi.
+
+Ha a Felhasználó az Oldalt használat közben bezárja, vagy ha a kapcsolat (bármely okból) megszakad a kiszolgáló webhelyével, abban az esetben az adatok elvesztéséért az Intézményvezető semmilyen felelősséget nem vállal. Az Intézményvezető és az Üzemeltető a rendelkezésére álló eszközökkel biztosítja, hogy az Oldal használata technikai szempontból biztonságosnak minősüljön. Az Oldalhoz való csatlakozás miatt bekövetkező károkért, az internetes hálózat esetleges üzemkimaradásából, az elérési út hibájából, bármely nem várt technikai hibából eredő adatvesztésért, vírusból, vagy más károkért az Intézményvezető nem felelős. A Felhasználóknak minden esetben fel kell mérniük, hogy rendelkeznek-e az Oldal használatához szükséges ismeretekkel, technikai követelményekkel és teljesítményekkel.
