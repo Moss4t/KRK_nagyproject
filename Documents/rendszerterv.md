@@ -69,3 +69,5 @@ Beta teszt:
 ## **Projekt terv**
 
 Project dolgozók: Kurán Tiger Bertalan, Balogh Dániel, Zsadányi Rózsa, Vajda Krisztián, Németi Nikoletta.
+
+		Tervezet: Követelmény Specifikáció, Funkcionális Specifikáció, Rendszer Dizájn, Adattárolás, Tesztek.
