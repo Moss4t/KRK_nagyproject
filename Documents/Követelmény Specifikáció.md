@@ -77,3 +77,17 @@ Jelen Felhasználási Feltételekben nem szabályozott kérdésekben a hatályos
 ## Kapcsolat
 
 Az Oldal támogatását az Üzemeltető végzi munkanapokon, 8:00 és 16:00 között. Az Oldal működésével kapcsolatban az Intézményvezető [KRK@gmail.com](mailto:KRK@gmail.com) e-mail címre küldheti kérdéseit, amelyre az Üzemeltető a fenti időszakban válaszol. Teljes bizalommal forduljon hozzánk.
+## Követelménylista
+  
+|   Modul   | ID |  Név   |  Verzió  |
+|-----------|----|--------|----------|
+|Jogosultság| K1 | Bejelentkezés|1.0|
+|Jogosultság|K2|Regisztráció|1.0|
+|Jogosultság|K3|Jogosultsági szintek|1.0|
+|Modifikáció|K4|Felhasználó módosítása|1.0|
+|Modifikáció|K5|Jelszó módosítása|1.0|
+|Modifikáció|K6|Elfelejtett jelszó|1.0|
+|Feladattípus|K7|Tananyag|1.0|
+|Statisztika|K8|Toplista|1.0|
+|Felület|K9|Üzenetek|1.0|
+|Felület|K10|Profil|1.0|
