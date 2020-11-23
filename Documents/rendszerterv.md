@@ -55,5 +55,15 @@ Alfa teszt:
 		A tesztet a fejlesztők végzik.
 		Az eljárás sikeres, ha különböző eszközökben is megfelelően működnek a különböző funkciók. 
 		A teszt időtartama egy hét.
+		
+Beta teszt:
+
+		Ezt a tesztet nem a fejlesztők végzik.
+		
+		Tesztelendő kijelzőméretek: 1280x720 (minimum), 1366x768 vagy 1920x1080
+
+		A teszt időtartama egy hét. 
+		A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek a fejlesztőknek, probléma/hiba felmerülése esetén.
+		Ha hiba lép fel, a fejlesztők kijavítják a lehető leghamarabb. Sok hiba esetén a tesztelés ideje elhúzód
 
 ## **Projekt terv**
