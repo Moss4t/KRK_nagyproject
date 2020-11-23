@@ -13,3 +13,5 @@
 ## **Karbantartási terv**
 
 ## **Fizikai környezet**
+
+## **Telepítési terv**
