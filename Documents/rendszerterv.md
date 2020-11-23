@@ -1,7 +1,7 @@
 ## **A rendszer célja és nem célja**
 
 A weblapunk célja hogy egy közösséget formáljon a fórum használata által. A fórummal szeretnénk megtalálni azokat a személyeket akik erre vevők.
-
+A weblapunknak nem célja hogy fizetős legyen.
 
 ## **Üzleti folyamatok modellje**
 
