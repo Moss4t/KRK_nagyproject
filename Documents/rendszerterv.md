@@ -14,6 +14,7 @@ Akik használják a fórumot.
 2.Bejegyzéseket hozzanak létre.
 3.Mások bejegyzéseit olvassák és szóljanak hozzá.
 4.Segítsenek másokon.
+5.Segítséget kérjenek másoktól.
 ## **Követelmények**
 
 ### **Funkcionális követelmények:**
