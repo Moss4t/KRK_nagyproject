@@ -42,4 +42,7 @@ A fórum használatához a GIT Repo-ra van csak szükség.
 
 ### **Tesztterv:**
 
+A tesztelések célja a fórum funkcionalitásának teljes vizsgálata és ellenőrzése.
+Tesztelési eljárások:
+
 ## **Projekt terv**
