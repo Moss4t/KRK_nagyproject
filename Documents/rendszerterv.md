@@ -5,3 +5,5 @@
 ### Üzleti Szereplők
 
 ## **Üzleti folyamat**
+
+## **Követelmények**
