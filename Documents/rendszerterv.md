@@ -19,7 +19,10 @@ Akik használják a fórumot.
 ## **Követelmények**
 
 ### **Funkcionális követelmények:**
-
+  - Könnyű kezelhetősége legyen
+	- Áttekinhető és felhasználó barát felület
+	- Optimalizálás különböző eszközökre
+	- Optimalizálás különböző telefonos készülékekre
 ## **Karbantartási terv**
 
 ## **Fizikai környezet**
