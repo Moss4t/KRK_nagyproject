@@ -55,3 +55,13 @@ Az Oldal megnyitás, bizonyos funkciói pedig regisztrációt követően vehető
 Az Oldal verziózott, a mobiltelefonon futó operációs rendszer – beállításoktól függően – rendszeresen frissíti magát. Amennyiben a Google Chrome, illetve a Safarin elérhető frissítést észlel a rendszer, az operációs rendszer automatikusan frissíti az oldalt. A Google Chrome, illetve a Sagari és az operációs rendszer működéséért az Intézményvezető semmilyen felelősséggel nem tartozik.
 
  Amennyiben más készüléken szándékozik megnyitni az oldalt Az új eszközön, azonban nem igényel újabb regisztrációt és a korábbi, programban tárolt információk is elérhetőek maradnak bejelentkezést követően. Mobiltelefonszám cseréjekor a Felhasználónak nincs teendője az Alkalmazással kapcsolatban.
+
+## Regisztráció és tárolt adatok
+
+A regisztráció csak egyféle képen mehet végbe. Az minden egyes intézményi diák, tanár egy bizonyos azonosítóval él a rendszerükbe.  Az oldalba való bejutáshoz az Intézmények a tanulóinak, tanárainak alkot egy 6 karakterből álló kódot, amit eljuttat a felhasználójának, és egy ideiglenes jelszót, amit a felhasználó az első belépésekor megváltoztat. Így jön létre a bejelentkezés. Regisztráció során megadott adatok helyességéért a Tulajdonos, illetve az Üzemeltető semminemű felelősséget nem vállal.
+
+ A regisztrációt követően Üzemeltető és/vagy Tulajdonos a Felhasználó részére az Oldal működésével kapcsolatosan, különösen versenyjelentkezéssel kapcsolatos tájékoztatást, visszaigazolást, alkalmazás frissítésével kapcsolatos tájékoztató leveleket küldhet a Felhasználó e-mail címére.
+
+Az Oldal adatbázisából előzetes értesítés nélkül törlésre kerülhet az a Felhasználó, aki az általa megosztott tartalmakkal megsérti harmadik fél személyiségi vagy egyéb jogait, valamint a szerzői jogot, bármilyen Szellemi Tulajdonnal kapcsolatos jogot vagy bármilyen egyéb jogszabály rendelkezéseit, kereskedelmi, üzleti célú hirdetéseket jelenít meg (ún. spam) formájában akár saját profiljával, akár a közösségi felületeken megosztott üzenetekkel, más Felhasználókat zaklat, megfélemlít, rágalmaz saját profiljával. Az Alkalmazás adatbázisából előzetes értesítés nélkül törlésre kerülhet az a Felhasználó is, aki az Oldal saját nevében terjeszti, részben vagy egészben másolja, átdolgozza, a Szellemi Tulajdont bármilyen egyéb módon bitorolja, másolja, azzal visszaél, jogosulatlanul használja az Oldal és az Intézményvezető védjegyeit, kárt tesz az Oldalban bármilyen módon, pl. szoftverek és távközlési berendezések segítségével a jelen Felhasználási Feltételekben foglaltakat bármilyen egyéb módon megszegi.
+
+ Az Intézményvezető bármikor kérheti regisztrációs hiba esetén segítséget a [KRK@gmail.com](mailto:KRK@gmail.com) email címre küldött levélben.
