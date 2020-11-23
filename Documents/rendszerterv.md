@@ -45,4 +45,8 @@ A fórum használatához a GIT Repo-ra van csak szükség.
 A tesztelések célja a fórum funkcionalitásának teljes vizsgálata és ellenőrzése.
 Tesztelési eljárások:
 
+Unit teszt:
+
+		Ahol csak lehetséges, szükséges már a fejlesztési idő alatt is tesztelni, hogy a metódusok megfelelően működnek-e
+
 ## **Projekt terv**
