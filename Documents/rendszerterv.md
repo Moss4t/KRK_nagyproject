@@ -32,7 +32,10 @@ alábbi egységekből állnak:
 3. Igény esetén új funkciók implementálása.  
 ## **Fizikai környezet**
 
+A mi elképzelésünk elképzelésünk szerint, python nyelven fogunk fejleszteni.
+
 ## **Telepítési terv**
+
 
 
 ### **Szoftver telepítési terv:**
