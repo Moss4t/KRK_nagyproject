@@ -6,3 +6,6 @@
 ## Jelenlegi helyzet
 
  Szeretnénk a felhasználók számára egy egyszerűen használható, könnyen hozzáférhető lehetőséget a rendezett információk eljuttatásához, tanár-diák között. Azoknak biztosítunk hozzáférést, akik egy intézményben tanulnak, ezt a diákigazolvány szám segítségével valósítható meg. Mindenki egy egyéni 6 karakterből álló kód segítségével juthat be a rendszerbe, és saját maga által választót jelszó segítségével. Az oktatást szeretnénk a XXI. század trendjei és technológiái segítségével fölülmúlni.
+## Jelenlegi üzleti folyamatok
+
+Mivel a mai körülmények miatt, a gimnáziumi, egyetemista, levelezős diákok nem léphetnek be az intézmény területére, így ez a lehetőség lenne a legkedvezőbb számukra. Hiszen egyes tanárokhoz akár 200-300 diák is tartozhat, így lehetetlen lenne mindenkinek külön-külön megtartani az órát, elküldeni az anyagot.
