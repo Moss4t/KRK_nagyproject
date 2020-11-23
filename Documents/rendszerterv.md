@@ -15,3 +15,6 @@
 ## **Fizikai környezet**
 
 ## **Telepítési terv**
+
+
+### **Szoftver telepítési terv:**
