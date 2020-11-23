@@ -11,3 +11,5 @@
 ### **Funkcionális követelmények:**
 
 ## **Karbantartási terv**
+
+## **Fizikai környezet**
