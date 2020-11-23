@@ -11,6 +11,7 @@ Akik használják a fórumot.
 
 ## **Üzleti folyamat**
 1.Emberek regisztráljanak a fórumra.
+2.Bejegyzéseket hozzanak létre.
 ## **Követelmények**
 
 ### **Funkcionális követelmények:**
