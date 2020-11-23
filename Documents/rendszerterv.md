@@ -24,7 +24,8 @@ Akik használják a fórumot.
 	- Optimalizálás különböző eszközökre
 	- Optimalizálás különböző telefonos készülékekre
 ## **Karbantartási terv**
-
+A fórum a jövőben nem igényel nagy karbantartásokat, a szükséges karbantartások az 
+alábbi egységekből állnak:
 ## **Fizikai környezet**
 
 ## **Telepítési terv**
