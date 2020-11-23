@@ -18,3 +18,6 @@
 
 
 ### **Szoftver telepítési terv:**
+
+
+### **Tesztterv:**
