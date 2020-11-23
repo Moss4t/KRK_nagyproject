@@ -13,6 +13,7 @@ Akik használják a fórumot.
 1.Emberek regisztráljanak a fórumra.
 2.Bejegyzéseket hozzanak létre.
 3.Mások bejegyzéseit olvassák és szóljanak hozzá.
+4.Segítsenek másokon.
 ## **Követelmények**
 
 ### **Funkcionális követelmények:**
