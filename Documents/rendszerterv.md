@@ -36,10 +36,9 @@ A mi elképzelésünk elképzelésünk szerint, python nyelven fogunk fejleszten
 
 ## **Telepítési terv**
 
-
-
 ### **Szoftver telepítési terv:**
 
+A fórum használatához a GIT Repo-ra van csak szükség.
 
 ### **Tesztterv:**
 
