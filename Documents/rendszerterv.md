@@ -7,3 +7,5 @@
 ## **Üzleti folyamat**
 
 ## **Követelmények**
+
+### **Funkcionális követelmények:**
