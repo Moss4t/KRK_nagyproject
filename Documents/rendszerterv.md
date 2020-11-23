@@ -15,6 +15,7 @@ Akik használják a fórumot.
 3.Mások bejegyzéseit olvassák és szóljanak hozzá.
 4.Segítsenek másokon.
 5.Segítséget kérjenek másoktól.
+6.Információkat osszanak meg egymással.
 ## **Követelmények**
 
 ### **Funkcionális követelmények:**
