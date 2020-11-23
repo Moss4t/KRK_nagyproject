@@ -91,3 +91,26 @@ Az Oldal támogatását az Üzemeltető végzi munkanapokon, 8:00 és 16:00 köz
 |Statisztika|K8|Toplista|1.0|
 |Felület|K9|Üzenetek|1.0|
 |Felület|K10|Profil|1.0|
+## Kifejtés
+
+#### ID
+
+- K1 A felhasználó a 6 karakterből álló kódjával és a jelszava segítségével bejelentkezhet. Ha a megadott kód vagy jelszó nem megfelelő, akkor a felhasználó hibaüzenetet kap.
+
+- K2 A jelszó tárolása kódolva történik az adatbázisban. Ha valamelyik adat ezek közül hiányzik vagy nem felel meg a követelményeknek, akkor a rendszer értesíti erről a felhasználót.
+
+- K3 Admin-Rendszerhozzáférés, feladatok feltöltése, felhasználók / diákok/ tanárok módosítása. Felhasználói üzenetek.
+
+- K4 A felhasználó módosítani tudja saját jelszavukat. Ehhez szükséges a régi és az új jelszó megadása, az új megerősítése, valamint a felhasználó kódjának megadása.
+
+- K5 A felhasználó módosítani tudja saját jelszavát. Ehhez szükséges a régi és az új jelszojának megadása, valamint az új megerősítése.
+
+- K6 Ha a felhasználó elfelejtette a felhasználónevét, vagy jelszavát akkor ezzel az opcióval egy Adminhoz tud fordulni.
+
+-  K7 Az admin/tanár regisztráció után feltölthet anyagokat, videókat, táblázatot, a diákok oldalaira.
+
+- K8 Egy lista a diákok pontjairól, a lista elején a legtöbb pontot elért felhasználó található.
+
+- K9 A felhasználók egymást között tudnak küldeni üzeneteket, jogosultságuktól függően.
+
+- K10 A felhasználónak lehetősége van a profilján található beállítások változtatására
