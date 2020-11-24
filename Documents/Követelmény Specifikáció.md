@@ -94,26 +94,29 @@ Az Oldal támogatását az Üzemeltető végzi munkanapokon, 8:00 és 16:00 köz
 |Jogosultság|K11|Moderátor felület|1.0|
 |Adatbázis|K12|Adatbázis rendszer|1.0|
 
-## Kifejtés
-
+### Kifejtés    
 #### ID
+- K1  A felhasználó a "Bejelentkezés" gombbal be tud jelentkezni a megadott felhasználónév és jelszó párossal. Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező fölött piros betűkkel tudatja velünk.
 
-- K1 A felhasználó 6 karakterből álló kódjával és a jelszava segítségével bejelentkezhet. Ha a megadott kód vagy jelszó nem megfelelő, akkor a felhasználó hibaüzenetet kap.
+- K2  A "Regisztráció gombra kattintva a felhasználó megadhatja az oldal használatához szükséges adatokat: "felhasználó" mezőbe egy egyedi felhasználónevet; "email" mezőbe a saját érvényes email címét; "jelszó" mezőbe egy egyedi kulcsszót, amit harmadik személynek semmiféleképpen nem adhatunk ki.
+Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező fölött piros betűkkel tudatja velünk.
 
-- K2 A jelszó tárolása kódolva történik az adatbázisban. Ha valamelyik adat ezek közül hiányzik vagy nem felel meg a követelményeknek, akkor a rendszer értesíti erről a felhasználót.
+- K3  Felhasználói-Rendszerhozzáférés, like-olhat, küldhet üzenetet, tölthet fel profilképet, bemutatkozó szöveget.
 
-- K3 Admin-Rendszerhozzáférés, feladatok feltöltése, felhasználók / diákok/ tanárok módosítása. Felhasználói üzenetek.
+- K4 A felhasználó módosítani tudja saját Felhasználónevét a saját profil beállításain belül. Ehhez szükséges a régi és az új felhasználók megadása, az új megerősítése, valamint a felhasználó jelszojának megadása. 
 
-- K4 A felhasználó módosítani tudja saját jelszavukat. Ehhez szükséges a régi és az új jelszó megadása, az új megerősítése, valamint a felhasználó kódjának megadása.
+- K5 A felhasználó módosítani tudja saját jelszavát a saját profil beállításain belül. Ehhez szükséges a régi és az új jelszojának megadása, valamint az új megerősítése.
 
-- K5 A felhasználó módosítani tudja saját jelszavát. Ehhez szükséges a régi és az új jelszojának megadása, valamint az új megerősítése.
+- K6 Ha a felhasználó elfelejtette a felhasználónevét vagy jelszavát, akkor ezzel az opcióval egy Adminhoz tud fordulni email címen keresztül.
 
-- K6 Ha a felhasználó elfelejtette a felhasználónevét, vagy jelszavát akkor ezzel az opcióval egy Adminhoz tud fordulni.
+- K7 Egy lista a bejegyzések, hozzászólásokról illetve a témákról ezekről különféle statisztika.(megtekintés, legfelkapottabb,stb...)
 
--  K7 Az admin/tanár regisztráció után feltölthet anyagokat, videókat, táblázatot, a diákok oldalaira.
+- K8 A felhasználónak lehetősége van a profilján található bemutatkozó szöveg módosítására.
 
-- K8 Egy lista a diákok pontjairól, a lista elején a legtöbb pontot elért felhasználó található.
+- K9 A felhasználók hozzáférnek egy reszponzív felülethez ami témákban lévő bejegyzésekhez amikhez hozzászólhatnak illetve új bejegyzéseket hozhatnak létre, amikben szavazásokat is indithatnak, feliratkozhatnak bejegyzésekre.
 
-- K9 A felhasználók egymást között tudnak küldeni üzeneteket, jogosultságuktól függően.
+- K10 Felület az admin fiókkal rendelkező felhasználó számára. Tartalmazza egyes felhasználói csoport jogok szerkesztését, bejegyzések,hozzászólások moderátori részét, új témák létrehozását.
 
-- K10 A felhasználónak lehetősége van a profilján található beállítások változtatására
+- K11  Felület az moderátor fiókkal rendelkező felhasználó számára. Tartalmazza egyes felhasználói csoport jogok szerkesztését, bejegyzések,hozzászólások moderátori részét, új témák létrehozását.
+
+- K12 Adatbázis kapcsolat megtervezése és létrehozása.
