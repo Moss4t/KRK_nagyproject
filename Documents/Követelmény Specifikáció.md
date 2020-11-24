@@ -28,7 +28,7 @@ Reszponzív felület – PC-n igazodik a képernyőhöz a felület mérete, azaz
 # Rendszerre vonatkozó törvények
 ## Általános Információk
 
-Az Alkalmazásokhoz való hozzáférést és annak használatát az alkalmazandó jogszabályok és jelen Felhasználási Feltételek és Adatkezelési tájékoztató ( a továbbiakban Felhasználási Feltételek) szabályozzák. Az alkalmazást használók ( a továbbiakban: a Felhasználók) elfogadják a jelen felhasználási feltételeket. Amennyiben ezen Felhasználási Feltételeket és az Oldal Tájékoztatót nem fogadják e, nem jogosultak az oldal használatára.
+A Weboldalhoz való hozzáférést és annak használatát az alkalmazandó jogszabályok és jelen Felhasználási Feltételek és Adatkezelési tájékoztatók ( a továbbiakban Felhasználási Feltételek) szabályozzák. Az alkalmazást használók ( a továbbiakban: a Felhasználók) elfogadják a jelen felhasználási feltételeket. Amennyiben ezen Felhasználási Feltételeket és az Oldal Tájékoztatóját nem fogadják e, nem jogosultak az oldal használatára.
 
  A jelen Felhasználási Feltétételekre a magyar jog az irányadó, tekintet nélkül a nemzetközi magánjog előírásaira. Az Alkalmazás Felhasználói kifejezetten hozzájárulnak ahhoz, hogy a jogvitákra a magyar hatóságoknak és bíróságoknak legyen kizárólagos joghatóságuk a magyar jog alapján.
 ## Szellemi tulajdon
