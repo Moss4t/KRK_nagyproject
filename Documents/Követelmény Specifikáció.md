@@ -25,6 +25,17 @@ Reszponzív felület – PC-n igazodik a képernyőhöz a felület mérete, azaz
  Matrica – mikor a felhasználó bizonyos tárgyon belül kiemelkedően teljesített, ami azt jelenti, hogy a tanulmányi átlaga 5%-os. Ilyenkor a tantárgy hátterén egy matrica jelenik meg.
 
  Értesítés – Hallgatók és a hierarchiában felsőbb rétegben tartozók között zajlik. A felsőbb felhasználók értesítéseket, fontos híreket tudnak közölni a hallgatókkal.
+ 
+ Feliratkozás - A felhasználók feliratkozhatnak bejegyzésekre ami jelzi ha új hozzászólás történt.
+
+ Szűrők - A felhasználó szűkebb körben kereshet bejegyzéseket, hozzászólásokat. Csak azokat a felhasználókat adja ki a kereső mező, ami megfelel a beállított feltételeknek.
+
+ Profil - A felhasználó itt testre szabhatja saját profilképét. Készíthet rövid leírást magáról hogy jobban megismerjék.
+
+ Feliratkozás felület - A felhasználót értesíti az oldal ha a bejegyzésnél új hozzászólás történt, vagy szavaztak az ő által elkészitett szavazáson.
+
+ Reszponzív felület - Az oldal méretei automatikusan igazodnak az aktuális eszközön.
+ 
 # Rendszerre vonatkozó törvények
 ## Általános Információk
 
