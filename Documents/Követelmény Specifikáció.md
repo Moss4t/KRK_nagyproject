@@ -58,7 +58,7 @@ Az Oldal verziózott, a mobiltelefonon futó operációs rendszer – beállít�
 
 ## Regisztráció és tárolt adatok
 
-A regisztráció csak egyféle képen mehet végbe. Az minden egyes intézményi diák, tanár egy bizonyos azonosítóval él a rendszerükbe.  Az oldalba való bejutáshoz az Intézmények a tanulóinak, tanárainak alkot egy 6 karakterből álló kódot, amit eljuttat a felhasználójának, és egy ideiglenes jelszót, amit a felhasználó az első belépésekor megváltoztat. Így jön létre a bejelentkezés. Regisztráció során megadott adatok helyességéért a Tulajdonos, illetve az Üzemeltető semminemű felelősséget nem vállal.
+A regisztráció csak egyféle képpen mehet végbe. Minden egyes intézményi diák, tanár egy bizonyos azonosítóval él a rendszerükbe.  Az weboldalba való bejutáshoz az Intézmények a tanulóinak, tanárainak alkot egy 6 karakterből álló kódot, amit eljuttat a felhasználójának, és egy ideiglenes jelszót, amit a felhasználó az első belépésekor megváltoztat. Így jön létre a bejelentkezés. A regisztráció során megadott adatok helyességéért a Tulajdonos, illetve az Üzemeltető semminemű felelősséget nem vállal.
 
  A regisztrációt követően Üzemeltető és/vagy Tulajdonos a Felhasználó részére az Oldal működésével kapcsolatosan, különösen versenyjelentkezéssel kapcsolatos tájékoztatást, visszaigazolást, alkalmazás frissítésével kapcsolatos tájékoztató leveleket küldhet a Felhasználó e-mail címére.
 
