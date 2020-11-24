@@ -24,7 +24,7 @@ Reszponzív felület – PC-n igazodik a képernyőhöz a felület mérete, azaz
 
  Matrica – mikor a felhasználó bizonyos tárgyon belül kiemelkedően teljesített, ami azt jelenti, hogy a tanulmányi átlaga 5%-os. Ilyenkor a tantárgy hátterén egy matrica jelenik meg.
 
- Értesítés – Hallgatók és a hierarchiában fölötte állók között zajlik. A felsőbb felhasználók értesítéseket, fontos híreket tudnak közölni a hallgatókkal.
+ Értesítés – Hallgatók és a hierarchiában felsőbb rétegben tartozók között zajlik. A felsőbb felhasználók értesítéseket, fontos híreket tudnak közölni a hallgatókkal.
 # Rendszerre vonatkozó törvények
 ## Általános Információk
 
