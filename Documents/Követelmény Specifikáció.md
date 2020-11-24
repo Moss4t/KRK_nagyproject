@@ -41,7 +41,7 @@ Az Alkalmazás Felhasználói 14 éven felüli természetes személyek lehetnek.
 A Felhasználási Feltételek és az Oldal működésének a módosítására, az Oldal működésének a megszüntetésére az Intézményvezető bármikor jogosult, a Felhasználó előzetes értesítése nélkül. Az Oldalon való hozzáférést az Intézményvezető bármikor visszavonhatja akár az adott Felhasználóra nézve, akár szélesebb körben vagy teljes körűen előzetes értesítés, figyelmeztetés nélkül.
 ## Felelősségi szabályok
 
-Az Intézményvezető fenntartja magának a jogot arra, hogy amennyiben valamely Felhasználó részéről bármilyen manipulációt, tömegesen generált letöltést, illetve az Oldal szellemével bármilyen módon összeférhetetlen vagy azt sértő magatartást tapasztal, vagy ennek megalapozott gyanúja felmerül, úgy a Felhasználót azonnali hatállyal kizárja az Oldal felhasználói köréből.
+Intézményvezető fenntartja magának a jogot arra, hogy amennyiben valamely Felhasználó részéről bármilyen manipulációt, tömegesen generált letöltést, illetve az Oldal szellemével bármilyen módon összeférhetetlen vagy azt sértő magatartást tapasztal, vagy ennek megalapozott gyanúja felmerül, úgy a Felhasználót azonnali hatállyal kizárja az Oldal felhasználói köréből.
 
 Az Oldalhoz kapcsolódó adatbázis módosítása kizárólag az Üzemeltető által, illetve az Oldalt üzemeltető webkiszolgálón keresztül lehetséges. Bármilyen külső, nem az Oldal részeként elérhető eszközzel történő beavatkozás a Felhasználó azonnali kizárását eredményezi.
 
