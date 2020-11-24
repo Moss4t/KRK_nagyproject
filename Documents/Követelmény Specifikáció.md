@@ -95,7 +95,7 @@ Az Oldal támogatását az Üzemeltető végzi munkanapokon, 8:00 és 16:00 köz
 
 #### ID
 
-- K1 A felhasználó a 6 karakterből álló kódjával és a jelszava segítségével bejelentkezhet. Ha a megadott kód vagy jelszó nem megfelelő, akkor a felhasználó hibaüzenetet kap.
+- K1 A felhasználó 6 karakterből álló kódjával és a jelszava segítségével bejelentkezhet. Ha a megadott kód vagy jelszó nem megfelelő, akkor a felhasználó hibaüzenetet kap.
 
 - K2 A jelszó tárolása kódolva történik az adatbázisban. Ha valamelyik adat ezek közül hiányzik vagy nem felel meg a követelményeknek, akkor a rendszer értesíti erről a felhasználót.
 
