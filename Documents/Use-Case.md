@@ -10,4 +10,13 @@ RB --> M(Moderátor)
 TM --> M(Moderátor)
 K --> M(Moderátor)
 
+D(Felhasználó) --> RB
+D --> K
+D --> TM
+D --> BL[Bejegyzések létrehozása, hozzászólás bejegyzésekhez]
+D --> FK[Fiók adatok módosítása, szerkesztése, törlése]
+D --> BA[Bejegyzések, hozzászólásokhoz melléklet csatolás]
+BL --> M
+BA --> M
+
 ```
