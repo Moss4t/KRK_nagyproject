@@ -19,4 +19,5 @@ D --> BA[Bejegyzések, hozzászólásokhoz melléklet csatolás]
 BL --> M
 BA --> M
 
+M --> Ad(Admin)
 ```
