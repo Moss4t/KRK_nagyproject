@@ -1,6 +1,4 @@
-# Use case
 
-```mermaid
 graph LR
 
 L(Látogató) --> RB[Regisztráció, Bejelentkezés]
@@ -20,4 +18,3 @@ BL --> M
 BA --> M
 
 M --> Ad(Admin)
-```
