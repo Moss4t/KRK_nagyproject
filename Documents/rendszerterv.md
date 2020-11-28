@@ -35,6 +35,15 @@ Akik használják a fórumot.
 	- Áttekinhető és felhasználó barát felület
 	- Optimalizálás különböző eszközökre
 	- Optimalizálás különböző telefonos készülékekre
+
+## **Funkcionális terv**
+
+### Rendszerszereplők:
+- Vendég
+- Felhasználó
+- Moderátor
+- Admin
+
 ## **Karbantartási terv**
 A fórum a jövőben nem igényel nagy karbantartásokat, a szükséges karbantartások az 
 alábbi egységekből állnak:
