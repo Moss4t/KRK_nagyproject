@@ -62,10 +62,17 @@ Akik használják a fórumot.
 - **Moderátor**:
 	- Felhasználó által létrehozott bejegyzések,hozzászólások ellenőrzése
 	- Bejegyzések ellenőrzése jóváhagyása
-	
+
 - **Admin**:
 	- Szerepkörök kiosztása, változtatása
 	- Témák létrehozzása
+	
+- **Menü-hierarchiák**:
+	- Bejelentkezés
+	- Regisztráció
+	- Főoldal
+	- Témák
+	- Bejegyzések
 
 
 ## **Karbantartási terv**
