@@ -73,6 +73,14 @@ Akik használják a fórumot.
 	- Főoldal
 	- Témák
 	- Bejegyzések
+	
+- **Bejelentkezés után**:
+	- Profil megtekintése
+	- Bejegyzés létrehozzás
+	- Hozzászólás bejegyzésekhez
+	- Feliratkozás
+	- Feliratkozások megtekintése
+	- Kijelentkezés
 
 
 ## **Karbantartási terv**
