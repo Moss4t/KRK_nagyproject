@@ -110,6 +110,12 @@ ebben az esetben SQL-Lite-t használunk.
 A kliens oldali programokat egy php alapú REST API szolgálja ki,
 ez csatlakozik az adatbázis szerverhez.
 
+### Web kliens
+
+A webalkalmazás django, python haszálatával készül el.
+A REST API-hoz a user belépését követően egyedi api-key segítségével
+lehet hozzáférni, ez biztosítja, hogy illetéktelen felhasználok ne
+módosíthassák az adatokat.
 
 ## **Telepítési terv**
 
