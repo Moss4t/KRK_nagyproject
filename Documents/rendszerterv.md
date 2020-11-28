@@ -117,6 +117,13 @@ A REST API-hoz a user belépését követően egyedi api-key segítségével
 lehet hozzáférni, ez biztosítja, hogy illetéktelen felhasználok ne
 módosíthassák az adatokat.
 
+## Implementációs terv
+
+### Web:
+
+A Webes felület főként HTML, CSS, PHP és Django, Python nyelven fog készülni.
+Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében. Képes lesz felhasználni a Backend részen futó REST szolgáltatás metódusait, ezáltal tud felvinni és lekérdezni adatokat az adatbázisból. Az eltelt időt a kliens fogja számolni a feladatoknál, hogy ne legyenek eltérések.
+
 ## **Telepítési terv**
 
 ### **Szoftver telepítési terv:**
