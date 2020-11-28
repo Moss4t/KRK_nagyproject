@@ -45,9 +45,19 @@ Akik használják a fórumot.
 - Admin
 
 ### Rendszerhasználati esetek és lefutásaik:
-- Vendég:
--- Témák megtekintése
--- Bejegyzések megtekintése
+- **Vendég**:
+Témák megtekintése
+Bejegyzések megtekintése
+
+- **Felhasználó**:
+Regisztráció az oldalra
+Saját adatainak módositása
+Profil törlése
+Témák megtekintése
+Bejegyzések megtekintése
+Bejegyzések létrehozása
+Hozzászólás bejegyzésekhez
+Kijelentkezés
 
 ## **Karbantartási terv**
 A fórum a jövőben nem igényel nagy karbantartásokat, a szükséges karbantartások az 
