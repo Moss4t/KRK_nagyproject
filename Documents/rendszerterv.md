@@ -3,6 +3,16 @@
 A weblapunk célja hogy egy közösséget formáljon a fórum használata által. A fórumra regisztrálók bejelentkezés után bejegyzéseket tudnak létrehozni, hozzászólni. Fontos, hogy a felhasználó könnyen el tudjon igazodni a felületeken ezért minimalista felhasználói felületet kap a weboldal. A moderátor szerepkörrel rendelkező felhasználók tudják szűrni a nem megfelelően viselkedő felhasználókat. A fórummal szeretnénk megtalálni azokat a személyeket akik erre vevők. A weboldal használható Androidos eszközökön, IOS eszközökön, illetve webes felületeken. A rendszer az adatokat egy adatbázisban tárolja.
 A weblapunknak nem célja hogy fizetős legyen.
 
+# Projekt terv
+
+#### **Projektszerepkörök, felelőségek:**
+
+- Projekt vezetők: Vajda Krisztián, Balogh Dániel, Mohai Ferenc
+- Projekt kivitelezők: Zsadányi Rózsa, Németi Nikoletta, Kurán Bertalan
+#### **Projektmunkások és felelőségek:**
+- Projekt vezetők: A kivitelezők munkáját segitik, felügyelik projekt elemekhez példákat, ötleteket nyújtanak hogy a projekt sikeresen elkészüljön.
+- Projekt kivitelezők: Feladatuk a projekt megtervezése, kivitelezése. (Frontend és backend elkészitése.)
+
 ## **Üzleti folyamatok modellje**
 
 ### Üzleti Szereplők
