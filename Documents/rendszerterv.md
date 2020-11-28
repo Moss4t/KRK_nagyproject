@@ -15,6 +15,8 @@ A weblapunknak nem célja hogy fizetős legyen.
 
 ## **Üzleti folyamatok modellje**
 
+![](Képernyőtervek/Use-Case.png)
+
 ### Üzleti Szereplők
 
 Akik használják a fórumot.
