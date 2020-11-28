@@ -101,6 +101,16 @@ alábbi egységekből állnak:
 	- Sublime text
 	- SQL-Lite 
 
+## Architekturális terv
+
+### Backend
+
+A rendszerhez szükség van egy adatbázis szerverre,
+ebben az esetben SQL-Lite-t használunk.
+A kliens oldali programokat egy php alapú REST API szolgálja ki,
+ez csatlakozik az adatbázis szerverhez.
+
+
 ## **Telepítési terv**
 
 ### **Szoftver telepítési terv:**
