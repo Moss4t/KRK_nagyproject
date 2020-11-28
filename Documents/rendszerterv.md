@@ -46,18 +46,23 @@ Akik használják a fórumot.
 
 ### Rendszerhasználati esetek és lefutásaik:
 - **Vendég**:
-Témák megtekintése
-Bejegyzések megtekintése
+	- Témák megtekintése
+	- Bejegyzések megtekintése
 
 - **Felhasználó**:
-Regisztráció az oldalra
-Saját adatainak módositása
-Profil törlése
-Témák megtekintése
-Bejegyzések megtekintése
-Bejegyzések létrehozása
-Hozzászólás bejegyzésekhez
-Kijelentkezés
+	- Regisztráció az oldalra
+	- Saját adatainak módositása
+	- Profil törlése
+	- Témák megtekintése
+	- Bejegyzések megtekintése
+	- Bejegyzések létrehozása
+	- Hozzászólás bejegyzésekhez
+	- Kijelentkezés
+	
+- **Moderátor**:
+	- Felhasználó által létrehozott bejegyzések,hozzászólások ellenőrzése
+	- Bejegyzések ellenőrzése jóváhagyása
+
 
 ## **Karbantartási terv**
 A fórum a jövőben nem igényel nagy karbantartásokat, a szükséges karbantartások az 
