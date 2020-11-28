@@ -1,6 +1,6 @@
 ## **A rendszer célja és nem célja**
 
-A weblapunk célja hogy egy közösséget formáljon a fórum használata által. A fórummal szeretnénk megtalálni azokat a személyeket akik erre vevők.
+A weblapunk célja hogy egy közösséget formáljon a fórum használata által. A fórumra regisztrálók bejelentkezés után bejegyzéseket tudnak létrehozni, hozzászólni. Fontos, hogy a felhasználó könnyen el tudjon igazodni a felületeken ezért minimalista felhasználói felületet kap a weboldal. A moderátor szerepkörrel rendelkező felhasználók tudják szűrni a nem megfelelően viselkedő felhasználókat. A fórummal szeretnénk megtalálni azokat a személyeket akik erre vevők. A weboldal használható Androidos eszközökön, IOS eszközökön, illetve webes felületeken. A rendszer az adatokat egy adatbázisban tárolja.
 A weblapunknak nem célja hogy fizetős legyen.
 
 ## **Üzleti folyamatok modellje**
