@@ -90,9 +90,16 @@ alábbi egységekből állnak:
 1. Frissebb verziójú app store történő tesztelés, hiba esetén azoknak javítása.
 2. A kiszolgáló szerver státuszának ellenőrzése, offline szerver esetén újraindítás.
 3. Igény esetén új funkciók implementálása.  
+
 ## **Fizikai környezet**
 
-A mi elképzelésünk elképzelésünk szerint, python nyelven fogunk fejleszteni.
+- A fórum webes platformra készül.
+- Python és django programozási nyelven.
+- **Fejlesztői eszközök**:
+	- Pycharm
+	- Notepad++
+	- Sublime text
+	- SQL-Lite 
 
 ## **Telepítési terv**
 
