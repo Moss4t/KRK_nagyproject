@@ -44,6 +44,11 @@ Akik használják a fórumot.
 - Moderátor
 - Admin
 
+### Rendszerhasználati esetek és lefutásaik:
+- Vendég:
+-- Témák megtekintése
+-- Bejegyzések megtekintése
+
 ## **Karbantartási terv**
 A fórum a jövőben nem igényel nagy karbantartásokat, a szükséges karbantartások az 
 alábbi egységekből állnak:
