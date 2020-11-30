@@ -46,3 +46,6 @@ A tesztadatok elkészítéséért és feltöltéséért felelős személy: Zsad�
 
 A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
 - Az adatbázisba felvitt adatoknak csak is az UTF-8 kódtáblában található karaktereket szabad tartalmaznia.
+
+## 3 Tesztelési terv
+Ez a fejezet leírja a teszt típusát, a metodológiáját és a riport készítés módszerét. Emellett meghatározza a teszt elvárásokat, a teszt-esetek elvárt eredményeit, sikerességének kritériumait, a kockázatok kezelését és a hatáskörön kívül eseteket.
