@@ -32,3 +32,11 @@ Tesztelés célja a projektben megtalálható felépítésbeli vagy formatervez�
 
 ## 2 Szükséges erőforrások
 Ez a fejezet a teszteléshez szükséges erőforrásokat fejti ki.
+
+### 2.1 Feladatkörök és felelősségek (tesztcsapat meghatározása)
+| Feladatkör  |  Felelősség/tevékenység |  Személy  |
+|---|---|---|
+|  **Tesztelő, Teszt-koordinátor:** |  A teszt végrehajtása, észrevételek dokumentálása, teszt dokumentáció archiválása.Teszt terv készítése.  A tesztterv jóváhagyatása a projektmenedzserrel.  Teszt forgatókönyvek létrehozása  Inkonzisztenciák kezelése.  Helyes és időbeni hibakezelés.  Szükség esetén problémák eszkalálása a projekt menedzsernek.  Végső riport készítése.  Teszt dokumentum archiválása.  Az észrevételek státuszának követése, ill. dokumentálása |  Zsadányi Rózsa |
+| **Szakértő:**  |  A szakértő az észrevételek elemzi és megoldást javasol. |  Kurán Bertalan  |
+|**Projektvezető:**| Teszt terv jóváhagyása  Teszt forgatókönyv (testscript)| Németi Nikoletta |
+
