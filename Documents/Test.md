@@ -29,3 +29,6 @@ Tesztelés célja a projektben megtalálható felépítésbeli vagy formatervez�
 #### Az alábbi alap elvárások képezik ennek a teszttervnek az alapját:
 - Az olvasó ismeri az alapdokumentumokat, amelyek meghatározzák a rendszert. 
 - Az **KRK_afp1** projektcsapat felelős a tesztadatok előállításáért.
+
+## 2 Szükséges erőforrások
+Ez a fejezet a teszteléshez szükséges erőforrásokat fejti ki.
