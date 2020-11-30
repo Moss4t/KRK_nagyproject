@@ -91,3 +91,5 @@ A próba telepítés a megrendelő által választott webtárhelyen történik, 
 A tesztelési feladat a következő teszt-eseteket foglalja magában:
 - Fejlesztői teszt
 - Prototípus (modul)
+
+## 4 Tesztelési ütemterv, függőségek – tesztforgatókönyv
