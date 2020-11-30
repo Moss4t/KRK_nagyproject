@@ -144,6 +144,37 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |  Szervezeti egység/ beosztás: | Projekt manager, Test manager  |
 |  Dátum: |  2020.11.25 12:15  |
 
+### 5.3 Tesztelési jegyzőkönyv - 3. Profil szerkesztés funkció
+
+|   |   |
+|---|---|
+| A teszt-eset leírás és célja:  | A felhasználó tudja módositani az adatait , kereséseti  |
+| A tesztelt folyamat/funkció leírása:  | A felhasználó tudja módositani az adatait , kereséseti|
+| A tesztelés előfeltételei:  |  A programnak rendelkeznie kell minimum egy dummy adatbázissal  |
+| A tesztelés dátuma és időpontja:  |  2020.11.25 13:31 |
+| A tesztadatok típusa:  | szöveg |
+| A tesztet végző személy(ek):  | Zsadányi Rózsa  |
+| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beálítások  |
+| A teszt-eset elvárt eredménye:  |  A specifikációban taglalt viselkedés |
+| A tesztelés eredménye:  | **Megfelelt/élesíthető**  |
+| Megjegyzések:  | -  |
+
+**Tesztelést elvégezte**
+
+|   |   |
+|---|---|
+|  Név: |  Zsadányi Rózsa |
+|  Szervezeti egység/ beosztás: | Adatbázis fejlesztő  |
+|  Dátum: |  2020.11.25 13:58  |
+
+### 5.4 Jóváhagyások
+
+|   |   |
+|---|---|
+|  Név: |  Kurán Bertalan |
+|  Szervezeti egység/ beosztás: | Projekt Manager  |
+|  Dátum: |  2020.01.07 11:00  |
+
 ## 6 Tesztelési jelentés 
 
 ### 6.1 Tesztelési jelentés -  1. Bejelentkezés, regisztráció funkció tesztelése 
