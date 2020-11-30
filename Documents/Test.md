@@ -85,3 +85,9 @@ A tesztett egy megbízott külső cég végzi.
 A go-live teszt egy próbaélesítés, melynek során a korábbi rendszerek továbbra is üzemelnek annak érdekében, hogy az élesítéskor keletkező problémák ne befolyásolják a normál üzemi működést.
 **Módszere:**
 A próba telepítés a megrendelő által választott webtárhelyen történik, a programot a jövőben üzemeltető adminisztrátorok közreműködésével.
+
+
+### 3.8 Tesztelési feladatok, teszt-esetek leírása
+A tesztelési feladat a következő teszt-eseteket foglalja magában:
+- Fejlesztői teszt
+- Prototípus (modul)
