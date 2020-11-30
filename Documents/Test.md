@@ -40,3 +40,9 @@ Ez a fejezet a teszteléshez szükséges erőforrásokat fejti ki.
 | **Szakértő:**  |  A szakértő az észrevételek elemzi és megoldást javasol. |  Kurán Bertalan  |
 |**Projektvezető:**| Teszt terv jóváhagyása  Teszt forgatókönyv (testscript)| Németi Nikoletta |
 
+### 2.2 Tesztadatok
+A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: 4
+A tesztadatok elkészítéséért és feltöltéséért felelős személy: Zsadányi Rózsa
+
+A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
+- Az adatbázisba felvitt adatoknak csak is az UTF-8 kódtáblában található karaktereket szabad tartalmaznia.
