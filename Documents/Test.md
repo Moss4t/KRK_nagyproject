@@ -216,3 +216,16 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |  Név: |  Zsadányi Rózsa |
 |  Szervezeti egység/ beosztás: | Adatbázis fejlesztő  |
 |  Dátum: |  2020.11.25 13:58  |
+
+### 7 Jóváhagyások
+
+|   |   |
+|---|---|
+|  Név: |  Kurán Bertalan |
+|  Szervezeti egység/ beosztás: | Projekt Manager  |
+|  Dátum: |  2020.11.26 11:00  |
+
+
+## #1: GUI teszt:
+A gui hibátlanul elindul, megnyitja a bejelentkező felületet. A textboxok működnek, a jelszó textbox titkosítva. A bejelenkezés gomb visszajelez panelváltást, de nem *vált* panelt, az elfelejtett jelszó gomb ugyanaz. A regisztrációs gomb ~120 hibát dob.
+
