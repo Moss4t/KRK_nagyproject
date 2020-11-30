@@ -120,3 +120,26 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |  Név: |  Kurán Bertalan |
 |  Szervezeti egység/ beosztás: | Projekt manager, Test manager  |
 |  Dátum: |  2020.11.25 11:15  |
+
+### 5.2 Tesztelési jegyzőkönyv - 2. Jogosultsági szint tesztelése
+
+|   |   |
+|---|---|
+| A teszt-eset leírás és célja:  | Jogosultság tesztelése |
+| A tesztelt folyamat/funkció leírása:  |  Az alkalmazás Jogosultság funkció tesztelése |
+| A tesztelés előfeltételei:  |  A programnak rendelkeznie kell minimum egy dummy adatbázissal |
+| A tesztelés dátuma és időpontja:  |  2020.11.25 11:38 |
+| A tesztadatok típusa:  | szöveg  |
+| A tesztet végző személy(ek):  | Zsadányi Rózsa  |
+| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beálítások  |
+| A teszt-eset elvárt eredménye:  |  A szövegszerkesztő optimális működése |
+| A tesztelés eredménye:  | **Megfelelt/élesíthető**  |
+| Megjegyzések:  | -  |
+
+**Tesztelést elvégezte**
+
+|   |   |
+|---|---|
+|  Név: |  Zsadányi Rózsa |
+|  Szervezeti egység/ beosztás: | Projekt manager, Test manager  |
+|  Dátum: |  2020.11.25 12:15  |
