@@ -75,3 +75,8 @@ A teszt egy kontrol csoportal zajlik, egy külső cégen keresztül.
 A terheléses teszt célja a tervezett kapacitások, valamint a rendelkezésre álló növekedési potenciál meghatározása.
 **Módszere:**
 A próba telepítést követően egy meghívott teszt közönéggel zajlik, szimulálva egy átlagos napi használatot.
+
+### 3.6 Biztonsági teszt (audit):
+Biztonsági tesztelésre akkor van szükség, ha a rendszer szenzitív (pl. személyes vagy pénzügyi) adatokat kezel, vagy szabadon elérhető az internetről. 
+**Módszere:**
+A tesztett egy megbízott külső cég végzi.
