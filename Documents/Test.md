@@ -232,3 +232,14 @@ A gui hibátlanul elindul, megnyitja a bejelentkező felületet. A textboxok mű
 ## #2:Adatbázis teszt:
 Az adatbázist phpmyadmin-ba be importálva hibátlanul lefutnak, legenerálják a táblákat, rekordokat lehet felvinni és ezeken szűréseket hatékonyan végezni.
 
+## #3:Adatbázis Connection teszt:
+
+Az adatbázis már hibátlanul fut, viszont a PYTHON nyelven íródott program, felismeri látja, mégsem tudja kezelni és hibát dob rá, ezért nem lehet insertálni-Selectelni vagy egyébb CRUD műveletet végezni rajta program futtatásával, csak és kizárólag belül a programkódban megírt SQL utasítások segítségével. 
+
+**Tesztelést elvégezte**
+|   |   |
+|---|---|
+|  Név: |  Kurán Bertalan  |
+|  Szervezeti egység/ beosztás: |  Vezető adatbázis fejlesztő |
+|  Dátum: |  2020.11.25 21:15  |
+
