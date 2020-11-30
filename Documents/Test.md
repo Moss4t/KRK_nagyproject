@@ -198,3 +198,21 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |  Név: |  Kurán Bertalan  |
 |  Szervezeti egység/ beosztás: |  Vezető adatbázis fejlesztő |
 |  Dátum: |  2020.11.25 14:36  |
+
+### 6.2 Tesztelési jelentés - 2. Profil szerkesztés funkció
+|   |   |
+|---|---|
+| A hivatkozott tesztjegyzőkönyvek rövid leírása és eredménye:  | "A felhasználó tudja módositani az adatait , kereséseti  " |
+| A tesztelt folyamatok/funkciók/modulok leírása: | A felhasználó tudja módositani az adatait , kereséseti   |
+| A tesztadatok típusa:  | szöveg  |
+| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beálítások  |
+| A tesztelés eredménye:  | **Megfelelt/élesíthető**  |
+| Megjegyzések:  | -  |
+
+**Tesztelést elvégezte**
+
+|   |   |
+|---|---|
+|  Név: |  Zsadányi Rózsa |
+|  Szervezeti egység/ beosztás: | Adatbázis fejlesztő  |
+|  Dátum: |  2020.11.25 13:58  |
