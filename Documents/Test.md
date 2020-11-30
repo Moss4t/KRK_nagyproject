@@ -17,3 +17,6 @@
 | Zsadányi Rózsa |  Projekt manager, Test manager |
 | Kurán Bertalan  |  Vezető adatbázis fejlesztő |
 | Németi Nikoletta | Adatbázis fejlesztő |
+
+## 1. Bevezetés
+Tesztelés célja a projektben megtalálható felépítésbeli vagy formatervezési hibák feltárása.
