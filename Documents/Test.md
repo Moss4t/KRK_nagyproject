@@ -243,3 +243,20 @@ Az adatbázis már hibátlanul fut, viszont a PYTHON nyelven íródott program, 
 |  Szervezeti egység/ beosztás: |  Vezető adatbázis fejlesztő |
 |  Dátum: |  2020.11.25 21:15  |
 
+### 7.Teszt
+
+|   Modul   |   Név   |  Időpont | Müködik? |
+|-----------|---------|----------|----------|
+|Bejelentkezés| Kurán Bertalan| 2020.11.11| Igen|
+|Regisztráció| Kurán Bertalan| 2020.11.13| Igen|
+|Jogosultsági szintek| Kurán Bertalan| 2020.11.11| Igen|
+|Felhasználó módosítása| Kurán Bertalan| 2020.11.25| Igen|
+|Jelszó módosítása| Kurán Bertalan| 2020.11.25| Igen|
+|Elfelejtett felhasználónév/jelszó| Kurán Bertalan| 2020.11.25| Igen|
+|Összes megtekintés Statisztika| Kurán Bertalan| 2020.11.25| Igen|
+|Profil| Kurán Bertalan| 2020.11.25| Igen|
+|Témák, Bejegyzések, Hozzászólások, Szavazás| Kurán Bertalan| 2020.11.25| Igen|
+|Admin felület | Kurán Bertalan| 2020.11.25| Igen|
+|Moderátor felület| Kurán Bertalan| 2020.11.25|Igen|
+|Adatbázis rendszer| Kurán Bertalan| 2020.11.25|Igen|
+
