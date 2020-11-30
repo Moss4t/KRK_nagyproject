@@ -143,3 +143,27 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |  Név: |  Zsadányi Rózsa |
 |  Szervezeti egység/ beosztás: | Projekt manager, Test manager  |
 |  Dátum: |  2020.11.25 12:15  |
+
+## 6 Tesztelési jelentés 
+
+### 6.1 Tesztelési jelentés -  1. Bejelentkezés, regisztráció funkció tesztelése 
+|   |   |
+|---|---|
+| A hivatkozott tesztjegyzőkönyvek rövid leírása és eredménye:  | "A bejentkezés és regisztráció opció lépésről lépésre tesztelésre került hibás és megfelelő adatokkal, a connection miatt nem működik megfelelően" |
+| A tesztelt folyamatok/funkciók/modulok leírása: | Insert, Select |
+| A tesztadatok típusa:  | String, int  |
+| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beálítások  |
+| A tesztelés eredménye:  | **élesíthető**  |
+| Megjegyzések:  | BUG |
+
+**Tesztelést elvégezte**
+
+|   |   |
+|---|---|
+|  Név: |  Zsadányi Rózsa |
+|  Szervezeti egység/ beosztás: | Projekt Manager  |
+|  Dátum: |  2020.11.25 12:15  |
+|   |   |
+|  Név: |  Kurán Bertalan  |
+|  Szervezeti egység/ beosztás: |  Vezető adatbázis fejlesztő |
+|  Dátum: |  2020.11.25 14:36  |
