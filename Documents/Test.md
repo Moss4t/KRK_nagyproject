@@ -97,3 +97,26 @@ A tesztelési feladat a következő teszt-eseteket foglalja magában:
 ### 4.1 Tesztelési jelentés
 A tesztelési jelentést a tesztkoordinátor készíti el. Ez egy részletes áttekintése a lefutott teszteknek, azok eredményeinek, státuszának és a megjegyzéseknek.
 A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést. 
+
+## 5 Tesztjegyzőkönyv
+### 5.1 Tesztelési jegyzőkönyv - 1. Bejelentkezés, regisztráció funkcó tesztelése
+
+|   |   |
+|---|---|
+| A teszt-eset leírás és célja:  | A bejelentkezés menüpont tesztelése |
+| A tesztelt folyamat/funkció leírása:  |  A felület viselkedése hibás felhasználónév / jelszó megadása esetén, megfelelő adatok esetén illetve többszöri hibás bevitelekor, továbbá új felhasználó fiók sikeres-e regisztrálása  |
+| A tesztelés előfeltételei:  |  A programnak rendelkeznie kell minimum egy dummy adatbázissal |
+| A tesztelés dátuma és időpontja:  |  2020.11.25 10:25 |
+| A tesztet végző személy(ek):  | Kurán Bertalan  |
+| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beálítások  |
+| A teszt-eset elvárt eredménye:  |  A specifikációban taglalt viselkedés |
+| A tesztelés eredménye:  | **Megfelelt/élesíthető**  |
+| Megjegyzések:  | -  |
+
+**Tesztelést elvégezte**
+
+|   |   |
+|---|---|
+|  Név: |  Kurán Bertalan |
+|  Szervezeti egység/ beosztás: | Projekt manager, Test manager  |
+|  Dátum: |  2020.11.25 11:15  |
