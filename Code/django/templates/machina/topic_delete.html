@@ -1,0 +1,25 @@
+{% extends 'board_base.html' %}
+{% load i18n %}
+{% load forum_conversation_tags %}
+
+{% block sub_title %}{% trans "Bejegyzés törlése" %}{% endblock sub_title %}
+
+{% block content %}
+<div class="row">
+  <div class="col-12">
+    <div class="card topic-delete">
+      <div class="card-header">
+        <h3 class="m-0 card-title h5">{% trans "Bejegyzés törlése" %}</h3>
+      </div>
+      <div class="card-body">
+        <div class="mb-3 warning-message">{% trans "Biztos vagy benne hogy törlöd ezt a bejegyzést?" %}</div>
+        <form action="" method="post">{% csrf_token %}
+          <input type="hidden" name="post" value="yes" />
+          <button role="submit" class="btn btn-warning">{% trans "Igen" %}</button>
+          <a href="{% url 'forum_conversation:topic' topic.forum.slug topic.forum.pk topic.slug topic.pk %}" class="btn btn-secondary">{% trans "Nem" %}</a>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock content %}
