@@ -8,7 +8,7 @@
 | **Projekt név:** |  KRK_Forum|
 | **Készítette:** | KRK_afp1 |
 | **Utolsó mentés kelte:** | 2020.11.30 |
-| **Dokumentum célja:** | A projekt aktualis állapotának 
+| **Dokumentum célja:** | A projekt aktuális állapotának felmérése
 
 ### Projektben résztvevő fejlesztők:
 
@@ -19,14 +19,15 @@
 | Németi Nikoletta | Adatbázis fejlesztő |
 
 ## 1. Bevezetés
-Tesztelés célja a projektben megtalálható felépítésbeli vagy formatervezési hibák feltárása.
+A tesztelés célja a projektben megtalálható felépítésbeli, vagy formatervezési hibák feltárása.
+
 ### 1.1 Tesztelési terv hatóköre, célja:
 
-- A tesztelési terv célja a tesztelés teljes körűségének biztosítása, a tesztelés során alkalmazott eljárások és megoldások meghatározása.
-- A teszt végrehajtásáért ez esetben a test manager fele , és a tesztelést az általa összeállított tesztcsapat hajtja végre a 2.1. fejezetben meghatározott módon.
+- A tesztelési terv célja a tesztelés teljeskörűségének biztosítása, a tesztelés során alkalmazott eljárások és megoldások meghatározása.
+- A teszt végrehajtásáért ez esetben a test manager felel, és a tesztelést az általa összeállított tesztcsapat hajtja végre a 2.1. fejezetben meghatározott módon.
 
 ### 1.2 Elvárások
-#### Az alábbi alap elvárások képezik ennek a teszttervnek az alapját:
+#### A teszttervvel szemben felállított alap elvárások:
 - Az olvasó ismeri az alapdokumentumokat, amelyek meghatározzák a rendszert. 
 - Az **KRK_afp1** projektcsapat felelős a tesztadatok előállításáért.
 
@@ -36,55 +37,55 @@ Ez a fejezet a teszteléshez szükséges erőforrásokat fejti ki.
 ### 2.1 Feladatkörök és felelősségek (tesztcsapat meghatározása)
 | Feladatkör  |  Felelősség/tevékenység |  Személy  |
 |---|---|---|
-|  **Tesztelő, Teszt-koordinátor:** |  A teszt végrehajtása, észrevételek dokumentálása, teszt dokumentáció archiválása.Teszt terv készítése.  A tesztterv jóváhagyatása a projektmenedzserrel.  Teszt forgatókönyvek létrehozása  Inkonzisztenciák kezelése.  Helyes és időbeni hibakezelés.  Szükség esetén problémák eszkalálása a projekt menedzsernek.  Végső riport készítése.  Teszt dokumentum archiválása.  Az észrevételek státuszának követése, ill. dokumentálása |  Zsadányi Rózsa |
-| **Szakértő:**  |  A szakértő az észrevételek elemzi és megoldást javasol. |  Kurán Bertalan  |
-|**Projektvezető:**| Teszt terv jóváhagyása  Teszt forgatókönyv (testscript)| Németi Nikoletta |
+|  **Tesztelő, Teszt-koordinátor:** |  A teszt végrehajtása, észrevételek dokumentálása, teszt dokumentáció archiválása.Tesztterv készítése.  A tesztterv jóváhagyatása a projektmenedzserrel.  A teszt forgatókönyvek létrehozása  inkonzisztenciák kezelése.  Helyes és időbeni hibakezelés.  Szükség esetén problémák delegálása a projekt menedzsernek.  Végső riport készítése.  Teszt dokumentum archiválása.  Az észrevételek státuszának követése, ill. dokumentálása |  Zsadányi Rózsa |
+| **Szakértő:**  |  A szakértő az észrevételeket elemzi és megoldást javasol. |  Kurán Bertalan  |
+|**Projektvezető:**| Tesztterv jóváhagyása  Teszt forgatókönyv (testscript)| Németi Nikoletta |
 
 ### 2.2 Tesztadatok
 A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: 4
 A tesztadatok elkészítéséért és feltöltéséért felelős személy: Zsadányi Rózsa
 
 A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
-- Az adatbázisba felvitt adatoknak csak is az UTF-8 kódtáblában található karaktereket szabad tartalmaznia.
+- Az adatbázisba felvitt adatoknak csakis az UTF-8 kódtáblában található karaktereket szabad tartalmaznia.
 
 ## 3 Tesztelési terv
-Ez a fejezet leírja a teszt típusát, a metodológiáját és a riport készítés módszerét. Emellett meghatározza a teszt elvárásokat, a teszt-esetek elvárt eredményeit, sikerességének kritériumait, a kockázatok kezelését és a hatáskörön kívül eseteket.
+Ez a fejezet leírja a teszt típusát, a metodikáját és a riportkészítés módszerét. Emellett meghatározza a tesztelvárásokat, a teszt-esetek elvárt eredményeit, sikerességének kritériumait, a kockázatok kezelését és a hatáskörön kívül eseteket.
 
 ### 3.1 Fejlesztői teszt
 A fejlesztői tesztelés célja a rendszer alapvető funkcióinak ellenőrzése, a hibakezelés és az alapvető funkciók működésének vizsgálata
 **Módszere:**
-A program SQL adatbázisa "DUMMY" (*Nem valós*) adatokkal kerül feltültésre a tesztelés adat.
-Ezen adatok többségét úgynevett "Lorem Ipsum" típusú véletlenül generált adat teszi ki.
+A program SQL adatbázisa "DUMMY" (*Nem valós*) adatokkal kerül feltöltésre a tesztelés alatt.
+Ezen adatok többségét úgynevett "Lorem Ipsum" típusú, véletlenül generált adat teszi ki.
 
 ### 3.2 Prototípus (modul) teszt
-A prototípustesztelés (vagy másik nevén modultesztelés) célja a rendszer már működő moduljainak önálló tesztelése, a modulon belüli hibák azonosításának és kiküszöbölésének érdekében. 
+A prototípus tesztelés (vagy másik nevén modultesztelés) célja a rendszer már működő moduljainak önálló tesztelése, a modulon belüli hibák azonosításának és kiküszöbölésének érdekében. 
 **Módszere:** 
-A szegmensek validálása egyénileg történik. A tesztelés visszont a szegmensek föggőségeire is ki terjed.
+A szegmensek validálása egyénileg történik. A tesztelés viszont a szegmensek függőségeire is kiterjed.
 
 ### 3.3 Integrációs teszt
-Az integrációs teszt célja a rendszer más rendszerekhez történő illesztésének vizsgálata, a több rendszereken keresztül átívelő funkciók tesztelésének érdekében. Az adatmigrációs tesztelés az integrációs teszteléshez tartozik, ennek lényege, hogy a bevezetendő rendszerbe áttöltik azokat az adatokat, amelyekkel a rendszer dolgozni fog és letesztelik a betöltött adatok, illetve az adatokat kezelő funkciók helyességét. 
+Az integrációs teszt célja a rendszer más rendszerekhez történő illesztésének vizsgálata, a több rendszeren keresztül átívelő funkciók tesztelésének érdekében. Az adatmigrációs tesztelés az integrációs teszteléshez tartozik, ennek lényege, hogy a bevezetendő rendszerbe áttöltik azokat az adatokat, amelyekkel a rendszer dolgozni fog, és letesztelik a betöltött adatok, illetve az adatokat kezelő funkciók helyességét. 
 **Módszere:**
 A program adatbázisába valós adatok kerülnek betöltésre.
 
 ### 3.4 Elfogadási teszt
 Az elfogadási teszt (angolul User Acceptance Test) célja a rendszer teljes funkcionalitásának vizsgálata a felhasználók szemszögéből
 **Módszere:**
-A teszt egy kontrol csoportal zajlik, egy külső cégen keresztül.
+A teszt egy kontroll csoporttal zajlik, egy külső cégen keresztül.
 
 ### 3.5 Terheléses teszt
 A terheléses teszt célja a tervezett kapacitások, valamint a rendelkezésre álló növekedési potenciál meghatározása.
 **Módszere:**
-A próba telepítést követően egy meghívott teszt közönéggel zajlik, szimulálva egy átlagos napi használatot.
+A próba telepítést követően egy meghívott tesztközönséggel zajlik, szimulálva egy átlagos napi használatot.
 
 ### 3.6 Biztonsági teszt (audit):
 Biztonsági tesztelésre akkor van szükség, ha a rendszer szenzitív (pl. személyes vagy pénzügyi) adatokat kezel, vagy szabadon elérhető az internetről. 
 **Módszere:**
-A tesztett egy megbízott külső cég végzi.
+A tesztet egy megbízott külső cég végzi.
 
 ### 3.7 Go live teszt
 A go-live teszt egy próbaélesítés, melynek során a korábbi rendszerek továbbra is üzemelnek annak érdekében, hogy az élesítéskor keletkező problémák ne befolyásolják a normál üzemi működést.
 **Módszere:**
-A próba telepítés a megrendelő által választott webtárhelyen történik, a programot a jövőben üzemeltető adminisztrátorok közreműködésével.
+A próbatelepítés a megrendelő által választott webtárhelyen történik, a programot a jövőben üzemeltető adminisztrátorok közreműködésével élesítik.
 
 
 ### 3.8 Tesztelési feladatok, teszt-esetek leírása
@@ -104,7 +105,7 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |   |   |
 |---|---|
 | A teszt-eset leírás és célja:  | A bejelentkezés menüpont tesztelése |
-| A tesztelt folyamat/funkció leírása:  |  A felület viselkedése hibás felhasználónév / jelszó megadása esetén, megfelelő adatok esetén illetve többszöri hibás bevitelekor, továbbá új felhasználó fiók sikeres-e regisztrálása  |
+| A tesztelt folyamat/funkció leírása:  |  A felület viselkedése hibás felhasználónév / jelszó megadása esetén, megfelelő adatok esetén, illetve többszöri hibás bevitelekor, továbbá új felhasználói fiók regisztrálása sikeres-e.  |
 | A tesztelés előfeltételei:  |  A programnak rendelkeznie kell minimum egy dummy adatbázissal |
 | A tesztelés dátuma és időpontja:  |  2020.11.25 10:25 |
 | A tesztet végző személy(ek):  | Kurán Bertalan  |
@@ -148,13 +149,13 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 
 |   |   |
 |---|---|
-| A teszt-eset leírás és célja:  | A felhasználó tudja módositani az adatait , kereséseti  |
-| A tesztelt folyamat/funkció leírása:  | A felhasználó tudja módositani az adatait , kereséseti|
+| A teszt-eset leírás és célja:  |  A felhasználó tudja módositani az adatait, kereséseit  |
+| A tesztelt folyamat/funkció leírása:  |  A felhasználó tudja módositani az adatait , kereséseit  |
 | A tesztelés előfeltételei:  |  A programnak rendelkeznie kell minimum egy dummy adatbázissal  |
 | A tesztelés dátuma és időpontja:  |  2020.11.25 13:31 |
 | A tesztadatok típusa:  | szöveg |
 | A tesztet végző személy(ek):  | Zsadányi Rózsa  |
-| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beálítások  |
+| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beállítások  |
 | A teszt-eset elvárt eredménye:  |  A specifikációban taglalt viselkedés |
 | A tesztelés eredménye:  | **Megfelelt/élesíthető**  |
 | Megjegyzések:  | -  |
@@ -180,10 +181,10 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 ### 6.1 Tesztelési jelentés -  1. Bejelentkezés, regisztráció funkció tesztelése 
 |   |   |
 |---|---|
-| A hivatkozott tesztjegyzőkönyvek rövid leírása és eredménye:  | "A bejentkezés és regisztráció opció lépésről lépésre tesztelésre került hibás és megfelelő adatokkal, a connection miatt nem működik megfelelően" |
+| A hivatkozott tesztjegyzőkönyvek rövid leírása és eredménye:  | "A bejelentkezés és regisztráció opció lépésről lépésre tesztelésre került hibás és megfelelő adatokkal, a connection miatt nem működik megfelelően" |
 | A tesztelt folyamatok/funkciók/modulok leírása: | Insert, Select |
 | A tesztadatok típusa:  | String, int  |
-| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beálítások  |
+| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beállítások  |
 | A tesztelés eredménye:  | **élesíthető**  |
 | Megjegyzések:  | BUG |
 
@@ -202,10 +203,10 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 ### 6.2 Tesztelési jelentés - 2. Profil szerkesztés funkció
 |   |   |
 |---|---|
-| A hivatkozott tesztjegyzőkönyvek rövid leírása és eredménye:  | "A felhasználó tudja módositani az adatait , kereséseti  " |
-| A tesztelt folyamatok/funkciók/modulok leírása: | A felhasználó tudja módositani az adatait , kereséseti   |
+| A hivatkozott tesztjegyzőkönyvek rövid leírása és eredménye:  | "A felhasználó tudja módositani az adatait , kereséseit  " |
+| A tesztelt folyamatok/funkciók/modulok leírása: | A felhasználó tudja módositani az adatait , kereséseit   |
 | A tesztadatok típusa:  | szöveg  |
-| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beálítások  |
+| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beállítások  |
 | A tesztelés eredménye:  | **Megfelelt/élesíthető**  |
 | Megjegyzések:  | -  |
 
@@ -227,14 +228,14 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 
 
 ## #1: GUI teszt:
-A gui hibátlanul elindul, megnyitja a bejelentkező felületet. A textboxok működnek, a jelszó textbox titkosítva. A bejelenkezés gomb visszajelez panelváltást, de nem *vált* panelt, az elfelejtett jelszó gomb ugyanaz. A regisztrációs gomb ~120 hibát dob.
+A GUI hibátlanul elindul, megnyitja a bejelentkező felületet. A textboxok működnek, a jelszó textbox titkosítva. A bejelenkezés gomb visszajelzi a panelváltást, de nem *vált* panelt, az elfelejtett jelszó gomb ugyanaz. A regisztrációs gomb ~120 hibát dob.
 
 ## #2:Adatbázis teszt:
-Az adatbázist phpmyadmin-ba be importálva hibátlanul lefutnak, legenerálják a táblákat, rekordokat lehet felvinni és ezeken szűréseket hatékonyan végezni.
+Az adatbázist phpmyadmin-ba beimportálva hibátlanul lefut, legenerálja a táblákat, rekordokat lehet felvinni és ezeken hatékonyan szűréseket lehet végezni.
 
 ## #3:Adatbázis Connection teszt:
 
-Az adatbázis már hibátlanul fut, viszont a PYTHON nyelven íródott program, felismeri látja, mégsem tudja kezelni és hibát dob rá, ezért nem lehet insertálni-Selectelni vagy egyébb CRUD műveletet végezni rajta program futtatásával, csak és kizárólag belül a programkódban megírt SQL utasítások segítségével. 
+Az adatbázis már hibátlanul fut, viszont a PYTHON nyelven írt program felismeri, látja, mégsem tudja kezelni és hibát dob rá, ezért nem lehet Insertálni-Selectelni, vagy egyébb CRUD műveletet végezni rajta a program futtatásával, csak és kizárólag belül, a programkódban megírt SQL utasítások segítségével módosítható. 
 
 **Tesztelést elvégezte**
 |   |   |
@@ -259,4 +260,3 @@ Az adatbázis már hibátlanul fut, viszont a PYTHON nyelven íródott program, 
 |Admin felület | Kurán Bertalan| 2020.11.25| Igen|
 |Moderátor felület| Kurán Bertalan| 2020.11.25|Igen|
 |Adatbázis rendszer| Kurán Bertalan| 2020.11.25|Igen|
-
